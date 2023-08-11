@@ -1,6 +1,6 @@
 # Face_Recognition_DL
 
-**Unroll the Dataset **
+**Unroll the Dataset** 
 
 Labelled Faces in the Wild: http://vis-www.cs.umass.edu/lfw/
 
